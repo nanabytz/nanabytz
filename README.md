@@ -20,8 +20,12 @@
 </div>
 
 <div align="center">
-  <a href="https://www.youtube.com/@TheBlueMentor">
-    <img src="https://img.shields.io/badge/YouTube-0A101F?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0A101F" alt="YouTube" />
+  <a href="https://www.instagram.com/nandhuuu.oo/?hl=en/">
+    <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nandha-gopan-713661360/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:nandhagopan.s007@gmail.com">
