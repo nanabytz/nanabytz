@@ -24,58 +24,58 @@
 <text x="480" y="80" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" fill="#22D3EE" letter-spacing="3">SUBJECT</text>
 <text x="480" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Subject</text>
 <text x="544.8" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">..............................................................................</text>
-<text x="1148" y="100" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">NANDHA GOPAN</text>
+<text x="1148" y="100" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">NANDHA GOPAN</text>
 <text x="480" y="123" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Role</text>
 <text x="519.6" y="123" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">...................................................................................</text>
-<text x="1148" y="123" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">B.Tech IT Student</text>
+<text x="1148" y="123" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">B.Tech IT Student</text>
 <text x="480" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Origin</text>
 <text x="536.4" y="146" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">................................................................................</text>
-<text x="1148" y="146" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Kerala, India</text>
+<text x="1148" y="146" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Kerala, India</text>
 <text x="480" y="169" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Education</text>
 <text x="561.6" y="169" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">..........................................................................</text>
-<text x="1148" y="169" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">B.Tech Information Technology</text>
+<text x="1148" y="169" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">B.Tech Information Technology</text>
 <text x="480" y="192" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Status</text>
 <text x="536.4" y="192" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">................................................................................</text>
-<text x="1148" y="192" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Learning + Building + Exploring</text>
+<text x="1148" y="192" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Learning + Building + Exploring</text>
 <text x="480" y="215" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">ToolChain</text>
 <text x="561.6" y="215" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">..........................................................................</text>
-<text x="1148" y="215" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">VS Code . Git . GitHub</text>
+<text x="1148" y="215" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">VS Code . Git . GitHub</text>
 <text x="480" y="232" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" fill="#22D3EE" letter-spacing="3">CORE</text>
 <text x="480" y="252" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Core.Lang</text>
 <text x="561.6" y="252" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">..........................................................................</text>
-<text x="1148" y="252" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Python . C . C++</text>
+<text x="1148" y="252" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Python . C . C++</text>
 <text x="480" y="275" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Core.Frontend</text>
 <text x="595.2" y="275" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">...................................................................</text>
-<text x="1148" y="275" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">HTML . CSS . JavaScript</text>
+<text x="1148" y="275" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">HTML . CSS . JavaScript</text>
 <text x="480" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Core.Backend</text>
 <text x="586.8" y="298" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">.....................................................................</text>
-<text x="1148" y="298" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Learning</text>
+<text x="1148" y="298" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Learning</text>
 <text x="480" y="321" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Core.Database</text>
 <text x="595.2" y="321" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">...................................................................</text>
-<text x="1148" y="321" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Learning</text>
+<text x="1148" y="321" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Learning</text>
 <text x="480" y="344" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Core.AI</text>
 <text x="544.8" y="344" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">..............................................................................</text>
-<text x="1148" y="344" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">AI . Machine Learning</text>
+<text x="1148" y="344" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">AI . Machine Learning</text>
 <text x="480" y="367" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Core.Security</text>
 <text x="595.2" y="367" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">...................................................................</text>
-<text x="1148" y="367" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Cybersecurity</text>
+<text x="1148" y="367" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Cybersecurity</text>
 <text x="480" y="384" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" fill="#22D3EE" letter-spacing="3">GRID</text>
 <text x="480" y="404" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Grid.Mail</text>
 <text x="561.6" y="404" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">..........................................................................</text>
-<text x="1148" y="404" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">nandhagopan.s007@gmail.com</text>
+<text x="1148" y="404" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">nandhagopan.s007@gmail.com</text>
 <text x="480" y="427" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Grid.Portfolio</text>
 <text x="603.6" y="427" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">.................................................................</text>
-<text x="1148" y="427" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">coming soon</text>
+<text x="1148" y="427" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">coming soon</text>
 <text x="480" y="450" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Grid.LinkedIn</text>
 <text x="595.2" y="450" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">...................................................................</text>
-<text x="1148" y="450" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">coming soon</text>
+<text x="1148" y="450" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">coming soon</text>
 <text x="480" y="473" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Grid.GitHub</text>
 <text x="578.4" y="473" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">.......................................................................</text>
-<text x="1148" y="473" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">github.com/nanabytz</text>
+<text x="1148" y="473" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">github.com/nanabytz</text>
 <text x="480" y="496" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Grid.Facebook</text>
 <text x="595.2" y="496" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">...................................................................</text>
-<text x="1148" y="496" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">coming soon</text>
+<text x="1148" y="496" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">coming soon</text>
 <text x="480" y="519" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">Grid.YouTube</text>
 <text x="586.8" y="519" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#64748B" letter-spacing="2">.....................................................................</text>
-<text x="1148" y="519" text-anchor="end" textLength="230" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">The Blue Mentor</text>
+<text x="1148" y="519" text-anchor="end"  font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16" fill="#E5E7EB">The Blue Mentor</text>
 </svg>
