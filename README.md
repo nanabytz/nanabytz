@@ -18,13 +18,7 @@
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/nanabytz/nanabytz/output/github-snake.svg?v=3" />
   </picture>
 </div>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/main/light.svg">
-    <img alt="GitHub Jet Heatmap" src="https://raw.githubusercontent.com/nanabytz/nanabytz/main/dark.svg" width="100%">
-  </picture>
-</p>
+
 <div align="center">
   <a href="https://www.instagram.com/nandhuuu.oo/?hl=en/">
     <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
