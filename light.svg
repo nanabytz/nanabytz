@@ -6,7 +6,7 @@
     <circle cx="18" cy="17" r="6" fill="#FF5F56"/>
     <circle cx="38" cy="17" r="6" fill="#FFBD2E"/>
     <circle cx="58" cy="17" r="6" fill="#27C93F"/>
-    <text x="90" y="21" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" fill="#E2E8F0">profile.sh --live</text>
+    <text x="90" y="21" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" fill="#9606ef">profile.sh --live</text>
     <circle cx="1108" cy="17" r="4" fill="#EF4444">
       <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
     </circle>
