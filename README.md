@@ -10,6 +10,13 @@
   <img width="49%" src="https://my-github-stats-ochre.vercel.app/api?username=nanabytz&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
   <img width="49%" src="https://my-github-stats-ochre.vercel.app/api/top-langs/?username=nanabytz&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
+### ⚡ Tech Stack & Tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,,,html,css,js,vscode,git,github&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</p>
 
 <div align="center">
   <picture>
