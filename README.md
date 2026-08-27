@@ -10,7 +10,9 @@
   <img width="49%" src="https://my-github-stats-ochre.vercel.app/api?username=nanabytz&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
   <img width="49%" src="https://my-github-stats-ochre.vercel.app/api/top-langs/?username=nanabytz&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
-<h3>⚡ TECH STACK & TOOLS</h3>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=20&color=22D3EE&vCenter=true&repeat=false&width=400&lines=⚡+TECH+STACK+%26+TOOLS" alt="Tech Stack Heading" />
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE" />
   <img src="https://img.shields.io/badge/C-0A101F?style=for-the-badge&logo=c&logoColor=22D3EE" />
@@ -18,7 +20,8 @@
   <img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=FF5F1F" />
   <img src="https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=FF5F1F" />
   <img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=FF5F1F" />
-  <img src="https://img.shields.io/badge/VS_Code-0A101F?style=for-the-badge&logo=visual-studio-code&logoColor=B026FF" />
+  <img src="https://img.shields.io/badge/PyCharm-0A101F?style=for-the-badge&logo=pycharm&logoColor=B026FF" />
+  <img src="https://img.shields.io/badge/VS_Code-0A101F?style=for-the-badge&logo=visualstudiocode&logoColor=B026FF" />
   <img src="https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=B026FF" />
   <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=B026FF" />
 </p>
