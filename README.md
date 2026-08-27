@@ -13,9 +13,17 @@
 ### ⚡ Tech Stack & Tools
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,,,html,css,js,vscode,git,github&theme=dark" alt="Tech Stack Icons" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/C-0A101F?style=for-the-badge&logo=c&logoColor=22D3EE" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0A101F?style=for-the-badge&logo=cplusplus&logoColor=22D3EE" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=FF5F1F" />
+  <img src="https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=FF5F1F" />
+  <img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=FF5F1F" />
+  <br>
+  <img src="https://img.shields.io/badge/VS_Code-0A101F?style=for-the-badge&logo=visual-studio-code&logoColor=B026FF" />
+  <img src="https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=B026FF" />
+  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=B026FF" />
 </p>
 
 <div align="center">
