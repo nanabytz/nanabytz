@@ -11,7 +11,7 @@
   <img width="49%" src="https://my-github-stats-ochre.vercel.app/api/top-langs/?username=nanabytz&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&weight=700&size=20&color=22D3EE&vCenter=true&repeat=false&width=400&lines=%E2%9A%A1+TECH+STACK+%26+TOOLS" alt="Tech Stack Heading" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=600&size=16&color=22D3EE&vCenter=true&repeat=false&width=400&lines=Tech+Stack+%26+Tools" alt="Tech Stack Heading" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE" />
