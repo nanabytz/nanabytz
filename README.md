@@ -84,5 +84,5 @@
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="700">
 </p>
 <p align="center">
-  <img src="https://metrics.lecoq.io/nanabytz?template=terminal" alt="nanabytz Terminal Stats" width="700" />
+  <img src="terminal-stats.svg" alt="Terminal Stats" width="700" />
 </p>
