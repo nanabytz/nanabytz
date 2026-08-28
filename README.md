@@ -11,10 +11,10 @@
   <img width="49%" src="https://my-github-stats-ochre.vercel.app/api/top-langs/?username=nanabytz&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 <p align="left">
-  <!-- Heading -->
+  <!-- Custom Animated Heading -->
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=600&size=16&color=0369A1&vCenter=true&width=400&lines=Tech+Stack+%26+Tools;Tech+Stack+%26+Tools&pause=3000">
-    <img alt="Tech Stack" src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=600&size=16&color=22D3EE&vCenter=true&width=400&lines=Tech+Stack+%26+Tools;Tech+Stack+%26+Tools&pause=3000">
+    <source media="(prefers-color-scheme: light)" srcset="heading-light.gif">
+    <img alt="Tech Stack" src="heading-dark.gif">
   </picture><br>
 
   <!-- Badges -->
