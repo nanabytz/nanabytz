@@ -13,9 +13,11 @@
 <p align="left">
   <!-- Custom Animated Heading -->
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="heading-light.gif">
-    <img alt="Tech Stack" src="heading-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="heading-light.gif" width="250">
+    <img alt="Tech Stack" src="heading-dark.gif" width="250">
   </picture><br>
+
+  <!-- Badges stay the same down here... -->
 
   <!-- Badges -->
   <picture>
