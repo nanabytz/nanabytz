@@ -80,3 +80,6 @@
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
   </a>
 </div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nanabytz&bg_color=0A101F&color=22D3EE&line=22D3EE&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+</p>
