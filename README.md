@@ -19,44 +19,44 @@
 
   <!-- Badges -->
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=0369A1">
-    <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=0369A1&v=1">
+    <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE&v=1">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=0369A1">
-    <img src="https://img.shields.io/badge/C-0A101F?style=for-the-badge&logo=c&logoColor=22D3EE">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C-FFFFFF?style=for-the-badge&logo=c&logoColor=0369A1&v=1">
+    <img src="https://img.shields.io/badge/C-0A101F?style=for-the-badge&logo=c&logoColor=22D3EE&v=1">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=0369A1">
-    <img src="https://img.shields.io/badge/C%2B%2B-0A101F?style=for-the-badge&logo=cplusplus&logoColor=22D3EE">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%2B%2B-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=0369A1&v=1">
+    <img src="https://img.shields.io/badge/C%2B%2B-0A101F?style=for-the-badge&logo=cplusplus&logoColor=22D3EE&v=1">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=EA580C">
-    <img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=FF5F1F">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=EA580C&v=1">
+    <img src="https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=FF5F1F&v=1">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=CSS3&logoColor=EA580C">
-    <img src="https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=CSS3&logoColor=FF5F1F">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=EA580C&v=1">
+    <img src="https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=FF5F1F&v=1">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=EA580C">
-    <img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=FF5F1F">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=EA580C&v=1">
+    <img src="https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=FF5F1F&v=1">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PyCharm-FFFFFF?style=for-the-badge&logo=pycharm&logoColor=7C3AED">
-    <img src="https://img.shields.io/badge/PyCharm-0A101F?style=for-the-badge&logo=pycharm&logoColor=B026FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/PyCharm-FFFFFF?style=for-the-badge&logo=pycharm&logoColor=7C3AED&v=1">
+    <img src="https://img.shields.io/badge/PyCharm-0A101F?style=for-the-badge&logo=pycharm&logoColor=B026FF&v=1">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VS_Code-FFFFFF?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=7C3AED">
-    <img src="https://img.shields.io/badge/VS_Code-0A101F?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=B026FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/VS_Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=7C3AED&v=1">
+    <img src="https://img.shields.io/badge/VS_Code-0A101F?style=for-the-badge&logo=visualstudiocode&logoColor=B026FF&v=1">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=7C3AED">
-    <img src="https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=B026FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=7C3AED&v=1">
+    <img src="https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=B026FF&v=1">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=7C3AED">
-    <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=B026FF">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=7C3AED&v=1">
+    <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=B026FF&v=1">
   </picture>
 </p>
 <div align="center">
