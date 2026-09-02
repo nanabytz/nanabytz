@@ -10,6 +10,7 @@
   <img width="49%" src="https://my-github-stats-ochre.vercel.app/api?username=nanabytz&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
   <img width="49%" src="https://my-github-stats-ochre.vercel.app/api/top-langs/?username=nanabytz&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=22D3EE&height=2" width="100%"/>
 <p align="left">
   <!-- Custom Animated Heading -->
   <picture>
@@ -59,6 +60,7 @@
     <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=B026FF&v=1">
   </picture>
 </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=22D3EE&height=2" width="100%"/>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/output/github-snake-dark.svg?v=3" />
@@ -66,6 +68,8 @@
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/nanabytz/nanabytz/output/github-snake.svg?v=3" />
   </picture>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=22D3EE&height=2" width="100%"/>
 
 <div align="center">
   <a href="https://www.instagram.com/nandhuuu.oo/?hl=en/">
@@ -80,6 +84,9 @@
     <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
   </a>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=22D3EE&height=2" width="100%"/>
+
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="700">
 </p>
