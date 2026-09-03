@@ -1,10 +1,12 @@
 name: Generate Snake Animation
+
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches: [main]
+
 jobs:
   generate:
     permissions:
@@ -19,6 +21,12 @@ jobs:
           outputs: |
             dist/github-snake.svg?palette=github-light&color_snake=#B026FF&color_dots=#ebedf0,#ffc5b3,#ff9b7a,#ff7847,#ff5f1f
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#B026FF&color_dots=#2d3343,#783525,#ab4526,#e15521,#ff5f1f
+            
+      - name: Inject Violet Neon Border
+        run: |
+          sed -i 's/<\/svg>/<rect width="100%" height="100%" fill="none" stroke="#B026FF" stroke-width="8" rx="10" \/><\/svg>/' dist/github-snake.svg
+          sed -i 's/<\/svg>/<rect width="100%" height="100%" fill="none" stroke="#B026FF" stroke-width="8" rx="10" \/><\/svg>/' dist/github-snake-dark.svg
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
