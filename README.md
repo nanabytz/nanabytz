@@ -16,17 +16,10 @@
 </p>
 
 <div align="center">
-  <kbd>
-    <img width="100%" src="https://streak-stats.demolab.com/?user=nanabytz&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
-  </kbd>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=nanabytz&hide_border=false&border=B026FF&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
   <br/><br/>
-  <kbd>
-    <img width="48%" src="https://my-github-stats-ochre.vercel.app/api?username=nanabytz&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-  </kbd>
-  &nbsp;
-  <kbd>
-    <img width="48%" src="https://my-github-stats-ochre.vercel.app/api/top-langs/?username=nanabytz&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
-  </kbd>
+  <img width="49%" src="https://my-github-stats-ochre.vercel.app/api?username=nanabytz&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=B026FF&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+  <img width="49%" src="https://my-github-stats-ochre.vercel.app/api/top-langs/?username=nanabytz&layout=compact&langs_count=8&hide_border=false&border_color=B026FF&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 
 <p align="center">
@@ -37,13 +30,11 @@
 </p>
 
 <p align="left">
-  <!-- Custom Animated Heading -->
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="heading-light.gif" width="250">
     <img alt="Tech Stack" src="heading-dark.gif" width="250">
   </picture><br>
 
-  <!-- Badges -->
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=0369A1&v=1">
     <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE&v=1">
@@ -94,13 +85,11 @@
 </p>
 
 <div align="center">
-  <kbd>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/output/github-snake-dark.svg?v=3" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/output/github-snake.svg?v=3" />
-      <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/nanabytz/nanabytz/output/github-snake.svg?v=3" />
-    </picture>
-  </kbd>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/output/github-snake-dark.svg?v=3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/output/github-snake.svg?v=3" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/nanabytz/nanabytz/output/github-snake.svg?v=3" />
+  </picture>
 </div>
 
 <p align="center">
