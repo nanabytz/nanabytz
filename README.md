@@ -1,8 +1,12 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/main/dark.svg?v=20">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/main/light.svg?v=20">
-  <img width="100%" alt="nanabytz" src="https://raw.githubusercontent.com/nanabytz/nanabytz/main/light.svg?v=20">
-</picture>
+<p align="center">
+  <kbd>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/main/dark.svg?v=20">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/main/light.svg?v=20">
+      <img width="100%" alt="nanabytz" src="https://raw.githubusercontent.com/nanabytz/nanabytz/main/light.svg?v=20">
+    </picture>
+  </kbd>
+</p>
 
 <p align="center">
   <picture>
@@ -10,8 +14,6 @@
     <img alt="Divider" src="divider-dark.gif" width="100%">
   </picture>
 </p>
-
-
 
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com/?user=nanabytz&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
@@ -28,13 +30,11 @@
 </p>
 
 <p align="left">
-  <!-- Custom Animated Heading -->
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="heading-light.gif" width="250">
     <img alt="Tech Stack" src="heading-dark.gif" width="250">
   </picture><br>
 
-  <!-- Badges -->
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=0369A1&v=1">
     <img src="https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=22D3EE&v=1">
@@ -76,6 +76,7 @@
     <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=B026FF&v=1">
   </picture>
 </p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="divider-light.gif">
@@ -118,5 +119,3 @@
     <img alt="Divider" src="divider-dark.gif" width="100%">
   </picture>
 </p>
-
-
