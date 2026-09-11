@@ -1,9 +1,9 @@
 <p align="center">
   <kbd>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/main/dark.svg?v=26">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/main/light.svg?v=26">
-      <img width="100%" alt="nanabytz" src="https://raw.githubusercontent.com/nanabytz/nanabytz/main/light.svg?v=26">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/main/dark.svg?v=27">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/main/light.svg?v=27">
+      <img width="100%" alt="nanabytz" src="https://raw.githubusercontent.com/nanabytz/nanabytz/main/light.svg?v=27">
     </picture>
   </kbd>
 </p>
