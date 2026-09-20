@@ -86,9 +86,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/output/pacman-contribution-graph-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/output/pacman-contribution-graph.svg?v=2" />
-    <img alt="Pacman eating my contributions" src="https://raw.githubusercontent.com/nanabytz/nanabytz/output/pacman-contribution-graph.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/nanabytz/nanabytz/blob/output/pacman-contribution-graph-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/nanabytz/nanabytz/blob/output/pacman-contribution-graph.svg?raw=true" />
+    <img alt="Pacman eating my contributions" src="https://github.com/nanabytz/nanabytz/blob/output/pacman-contribution-graph.svg?raw=true" />
   </picture>
 </div>
 
