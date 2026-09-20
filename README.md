@@ -92,6 +92,22 @@
   </picture>
 </div>
 
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="divider-light.gif">
+    <img alt="Divider" src="divider-dark.gif" width="100%">
+  </picture>
+</p>
+<div align="center">
+  <picture>
+    <!-- The Pacman action overrides the default snake SVGs on your output branch -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nanabytz/nanabytz/output/github-contribution-grid-snake.svg" />
+    <img alt="Pacman eating my contributions" src="https://raw.githubusercontent.com/nanabytz/nanabytz/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="divider-light.gif">
